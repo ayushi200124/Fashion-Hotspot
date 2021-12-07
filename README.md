@@ -1,0 +1,2 @@
+# Fashion-Hotspot
+This project was made to solve a problem. For content creators, those who post content on regular basis on platforms like Instagram/LinkedIn have to first spare some time to edit the posts. With the help of this project, such a person will only have to edit few templates for once and that's it. Then just with a click of a button one can download attractive and already edited posts and can easily post them. 
