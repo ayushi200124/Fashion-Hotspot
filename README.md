@@ -9,4 +9,15 @@ Flask framework for back-end, Beautiful Soup for scrapping, Html2Canvas.js for c
 - Visual Studio Code
 - Anaconda
 
-### Commands and 
+### Environment Setup and Packages needed
+- To navigate through the anaconda environments : `C:\Users\<your user name>\anaconda3\envs\venv\Scripts\activate`
+- To activate your conda base environment : `conda activate base`
+- To create our virtual working environment : `conda create -n envname python=x.x anaconda`
+- To install flask : `conda install flask`
+- To install beautiful soup : `conda install -c conda-forge bs4`
+- To run flask app : `flask run` \
+**NOTE** : Except the last command, perform all the other commands on the terminal and you should be good to go.
+### A quick look into the gif of my websitewill help you understand better -
+> Just go to the website and click to download post. You will get the summary of all trending fashion insights under one single template which keeps customizing randomly.
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/79920441/145060254-5a5c9b96-5299-4db7-b406-cc3708c308cf.gif)
